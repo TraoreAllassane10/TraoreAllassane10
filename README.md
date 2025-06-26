@@ -1,7 +1,7 @@
 ## Bonjour, moi c'est Traore Allassane 👋
 
 # 💫 About Me:
-👋 Salut, moi c’est Allassane. Je suis un développeur fullstack junior, passionné par la création d’applications solides et bien pensées, aussi bien côté backend que frontend. Mon cœur balance entre Laravel, Node.js, React et une obsession grandissante pour l’architecture logicielle propre.<br><br>💡 Mon objectif ? Devenir développeur backend senior, construire des systèmes complexes, scalables et impactants. Je trace aujourd’hui le chemin vers ma future entreprise tech, avec en ligne de mire : liberté, excellence… et un duplex en Occident.<br><br>🧠 En parallèle, je me forme à fond sur le cerveau humain, la neuroplasticité et le mindset de croissance, pour devenir un coach capable de hacker le mental aussi bien que le code.<br>
+👋 Salut, moi c’est Allassane. Je suis un développeur fullstack junior, passionné par la création d’applications solides et bien pensées, aussi bien côté backend que frontend. Mon cœur balance entre Laravel, Node.js, React et une obsession grandissante pour l’architecture logicielle propre.<br><br>💡 Mon objectif ? Devenir développeur backend senior, construire des systèmes complexes, scalables et impactants. Je trace aujourd’hui le chemin vers ma future entreprise tech, avec en ligne de mire : liberté, excellence…<br><br>
 
 
 ## 🌐 Socials:
